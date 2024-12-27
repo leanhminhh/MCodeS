@@ -1,0 +1,14 @@
+C:\Users\leean\source\repos\DNAssigm01\CalcFomula1\bin\Debug\net9.0\CalcFomula1.exe
+C:\Users\leean\source\repos\DNAssigm01\CalcFomula1\bin\Debug\net9.0\CalcFomula1.deps.json
+C:\Users\leean\source\repos\DNAssigm01\CalcFomula1\bin\Debug\net9.0\CalcFomula1.runtimeconfig.json
+C:\Users\leean\source\repos\DNAssigm01\CalcFomula1\bin\Debug\net9.0\CalcFomula1.dll
+C:\Users\leean\source\repos\DNAssigm01\CalcFomula1\bin\Debug\net9.0\CalcFomula1.pdb
+C:\Users\leean\source\repos\DNAssigm01\CalcFomula1\obj\Debug\net9.0\CalcFomula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leean\source\repos\DNAssigm01\CalcFomula1\obj\Debug\net9.0\CalcFomula1.AssemblyInfoInputs.cache
+C:\Users\leean\source\repos\DNAssigm01\CalcFomula1\obj\Debug\net9.0\CalcFomula1.AssemblyInfo.cs
+C:\Users\leean\source\repos\DNAssigm01\CalcFomula1\obj\Debug\net9.0\CalcFomula1.csproj.CoreCompileInputs.cache
+C:\Users\leean\source\repos\DNAssigm01\CalcFomula1\obj\Debug\net9.0\CalcFomula1.dll
+C:\Users\leean\source\repos\DNAssigm01\CalcFomula1\obj\Debug\net9.0\refint\CalcFomula1.dll
+C:\Users\leean\source\repos\DNAssigm01\CalcFomula1\obj\Debug\net9.0\CalcFomula1.pdb
+C:\Users\leean\source\repos\DNAssigm01\CalcFomula1\obj\Debug\net9.0\CalcFomula1.genruntimeconfig.cache
+C:\Users\leean\source\repos\DNAssigm01\CalcFomula1\obj\Debug\net9.0\ref\CalcFomula1.dll
