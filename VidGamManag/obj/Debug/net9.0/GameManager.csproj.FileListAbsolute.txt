@@ -1,0 +1,14 @@
+C:\Users\leean\source\repos\DNAssigm01\VidGamManag\bin\Debug\net9.0\GameManager.exe
+C:\Users\leean\source\repos\DNAssigm01\VidGamManag\bin\Debug\net9.0\GameManager.deps.json
+C:\Users\leean\source\repos\DNAssigm01\VidGamManag\bin\Debug\net9.0\GameManager.runtimeconfig.json
+C:\Users\leean\source\repos\DNAssigm01\VidGamManag\bin\Debug\net9.0\GameManager.dll
+C:\Users\leean\source\repos\DNAssigm01\VidGamManag\bin\Debug\net9.0\GameManager.pdb
+C:\Users\leean\source\repos\DNAssigm01\VidGamManag\obj\Debug\net9.0\GameManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leean\source\repos\DNAssigm01\VidGamManag\obj\Debug\net9.0\GameManager.AssemblyInfoInputs.cache
+C:\Users\leean\source\repos\DNAssigm01\VidGamManag\obj\Debug\net9.0\GameManager.AssemblyInfo.cs
+C:\Users\leean\source\repos\DNAssigm01\VidGamManag\obj\Debug\net9.0\GameManager.csproj.CoreCompileInputs.cache
+C:\Users\leean\source\repos\DNAssigm01\VidGamManag\obj\Debug\net9.0\GameManager.dll
+C:\Users\leean\source\repos\DNAssigm01\VidGamManag\obj\Debug\net9.0\refint\GameManager.dll
+C:\Users\leean\source\repos\DNAssigm01\VidGamManag\obj\Debug\net9.0\GameManager.pdb
+C:\Users\leean\source\repos\DNAssigm01\VidGamManag\obj\Debug\net9.0\GameManager.genruntimeconfig.cache
+C:\Users\leean\source\repos\DNAssigm01\VidGamManag\obj\Debug\net9.0\ref\GameManager.dll
