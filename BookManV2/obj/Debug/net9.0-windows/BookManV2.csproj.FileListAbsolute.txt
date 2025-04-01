@@ -1,0 +1,16 @@
+C:\Users\leean\source\repos\BookManV2\BookManV2\bin\Debug\net9.0-windows\BookManV2.exe
+C:\Users\leean\source\repos\BookManV2\BookManV2\bin\Debug\net9.0-windows\BookManV2.deps.json
+C:\Users\leean\source\repos\BookManV2\BookManV2\bin\Debug\net9.0-windows\BookManV2.runtimeconfig.json
+C:\Users\leean\source\repos\BookManV2\BookManV2\bin\Debug\net9.0-windows\BookManV2.dll
+C:\Users\leean\source\repos\BookManV2\BookManV2\bin\Debug\net9.0-windows\BookManV2.pdb
+C:\Users\leean\source\repos\BookManV2\BookManV2\obj\Debug\net9.0-windows\BookManV2.BookView.resources
+C:\Users\leean\source\repos\BookManV2\BookManV2\obj\Debug\net9.0-windows\BookManV2.csproj.GenerateResource.cache
+C:\Users\leean\source\repos\BookManV2\BookManV2\obj\Debug\net9.0-windows\BookManV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leean\source\repos\BookManV2\BookManV2\obj\Debug\net9.0-windows\BookManV2.AssemblyInfoInputs.cache
+C:\Users\leean\source\repos\BookManV2\BookManV2\obj\Debug\net9.0-windows\BookManV2.AssemblyInfo.cs
+C:\Users\leean\source\repos\BookManV2\BookManV2\obj\Debug\net9.0-windows\BookManV2.csproj.CoreCompileInputs.cache
+C:\Users\leean\source\repos\BookManV2\BookManV2\obj\Debug\net9.0-windows\BookManV2.dll
+C:\Users\leean\source\repos\BookManV2\BookManV2\obj\Debug\net9.0-windows\refint\BookManV2.dll
+C:\Users\leean\source\repos\BookManV2\BookManV2\obj\Debug\net9.0-windows\BookManV2.pdb
+C:\Users\leean\source\repos\BookManV2\BookManV2\obj\Debug\net9.0-windows\BookManV2.genruntimeconfig.cache
+C:\Users\leean\source\repos\BookManV2\BookManV2\obj\Debug\net9.0-windows\ref\BookManV2.dll
